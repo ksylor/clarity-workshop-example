@@ -1,0 +1,19 @@
+{
+  "name": "clarity-workshop-example",
+  "version": "0.1.0",
+  "description": "An example npm package for clarity workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksylor/clarity-workshop-example.git"
+  },
+  "author": "Katie Sylor-Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksylor/clarity-workshop-example/issues"
+  },
+  "homepage": "https://github.com/ksylor/clarity-workshop-example#readme"
+}
