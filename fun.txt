@@ -1,4 +1,5 @@
 Hi this is candy I'm having fun!
+Fun fun fun fun fun fun fun
 Are you having fun yet?
 Yes I am having so much fun.
 This is an edit from the github ui to create a fake conflict.
